@@ -1,0 +1,48 @@
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	height: auto;
+
+}
+
+.hijos {
+	background-color: lightcyan;
+	margin: 10px;
+	padding: 10px;
+	width: 400px;
+	height: 175px;
+	min-width: 300px;
+	border-radius: 20%;
+
+}
+
+#hijo2 li, #hijo3 li {
+	color: blue;
+}
+
+strong {
+	color: black;
+}
+
+body {
+	font-family: 'Rock Salt', cursive;
+	font-size: 10px;
+	border: solid 5px black;
+	padding: 10px;
+	
+
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+#hijo2 {
+	
+	background-color: lightcoral;
+	}
+
+h1 {
+	margin-bottom: 20px;
+}
