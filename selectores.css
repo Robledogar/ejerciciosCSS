@@ -1,0 +1,23 @@
+a {
+	text-decoration-line: none;
+	color: red;
+}
+a:hover {
+	color: white;
+	background-color: red;
+	text-decoration-line: underline;
+}
+a:visited {
+	color: green;
+	text-decoration-line: none;
+}
+a:focus {
+	color: blue;
+	text-decoration-line: underline;
+}
+
+a:active {
+	color: #f60;
+	background-color: #fff;
+	text-decoration-line: none;
+}
